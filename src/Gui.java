@@ -12,6 +12,7 @@ public class Gui extends javax.swing.JFrame {
         initComponents();
         cbHeuristic.setEnabled(false);
         spinDepth.setEnabled(false);
+        this.setLocationRelativeTo(null);
     }
 
     @SuppressWarnings("unchecked")
