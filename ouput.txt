@@ -1,6 +1,6 @@
 
 
->> Step: 1
+>> Step: 0
 ####################################################
 Cost of the movement: 0
 *******
@@ -10,7 +10,7 @@ Cost of the movement: 0
 *******
 
 
->> Step: 2
+>> Step: 1
 ####################################################
 Move 3 UP
 Cost of the movement: 3
@@ -21,7 +21,7 @@ Cost of the movement: 3
 *******
 
 
->> Step: 3
+>> Step: 2
 ####################################################
 Move 1 LEFT
 Cost of the movement: 1
@@ -32,7 +32,7 @@ Cost of the movement: 1
 *******
 
 
->> Step: 4
+>> Step: 3
 ####################################################
 Move 6 DOWN
 Cost of the movement: 6
@@ -43,7 +43,7 @@ Cost of the movement: 6
 *******
 
 
->> Step: 5
+>> Step: 4
 ####################################################
 Move 3 RIGHT
 Cost of the movement: 3
@@ -54,7 +54,7 @@ Cost of the movement: 3
 *******
 
 
->> Step: 6
+>> Step: 5
 ####################################################
 Move 5 RIGHT
 Cost of the movement: 5
@@ -65,7 +65,7 @@ Cost of the movement: 5
 *******
 
 
->> Step: 7
+>> Step: 6
 ####################################################
 Move 7 DOWN
 Cost of the movement: 7
@@ -76,7 +76,7 @@ Cost of the movement: 7
 *******
 
 
->> Step: 8
+>> Step: 7
 ####################################################
 Move 2 LEFT
 Cost of the movement: 2
@@ -87,7 +87,7 @@ Cost of the movement: 2
 *******
 
 
->> Step: 9
+>> Step: 8
 ####################################################
 Move 4 LEFT
 Cost of the movement: 4
@@ -98,7 +98,7 @@ Cost of the movement: 4
 *******
 
 
->> Step: 10
+>> Step: 9
 ####################################################
 Move 3 UP
 Cost of the movement: 3
@@ -109,7 +109,7 @@ Cost of the movement: 3
 *******
 
 
->> Step: 11
+>> Step: 10
 ####################################################
 Move 5 RIGHT
 Cost of the movement: 5
@@ -120,7 +120,7 @@ Cost of the movement: 5
 *******
 
 
->> Step: 12
+>> Step: 11
 ####################################################
 Move 1 UP
 Cost of the movement: 1
@@ -131,7 +131,7 @@ Cost of the movement: 1
 *******
 
 
->> Step: 13
+>> Step: 12
 ####################################################
 Move 8 RIGHT
 Cost of the movement: 8
@@ -142,7 +142,7 @@ Cost of the movement: 8
 *******
 
 
->> Step: 14
+>> Step: 13
 ####################################################
 Move 7 DOWN
 Cost of the movement: 7
@@ -153,7 +153,7 @@ Cost of the movement: 7
 *******
 
 
->> Step: 15
+>> Step: 14
 ####################################################
 Move 1 LEFT
 Cost of the movement: 1
@@ -164,7 +164,7 @@ Cost of the movement: 1
 *******
 
 
->> Step: 16
+>> Step: 15
 ####################################################
 Move 4 DOWN
 Cost of the movement: 4
@@ -175,7 +175,7 @@ Cost of the movement: 4
 *******
 
 
->> Step: 17
+>> Step: 16
 ####################################################
 Move 2 RIGHT
 Cost of the movement: 2
@@ -186,7 +186,7 @@ Cost of the movement: 2
 *******
 
 
->> Step: 18
+>> Step: 17
 ####################################################
 Move 1 UP
 Cost of the movement: 1
@@ -197,7 +197,7 @@ Cost of the movement: 1
 *******
 
 
->> Step: 19
+>> Step: 18
 ####################################################
 Move 4 LEFT
 Cost of the movement: 4
@@ -208,7 +208,7 @@ Cost of the movement: 4
 *******
 
 
->> Step: 20
+>> Step: 19
 ####################################################
 Move 5 LEFT
 Cost of the movement: 5
@@ -219,7 +219,7 @@ Cost of the movement: 5
 *******
 
 
->> Step: 21
+>> Step: 20
 ####################################################
 Move 6 UP
 Cost of the movement: 6
@@ -230,8 +230,8 @@ Cost of the movement: 6
 *******
 ####################################################
 ** Number of transitions to get to the goal state from the initial state:  20
-** Number of visited states:  19738
+** Number of visited states:  81287
 ** Total cost for this solution: 78
-** Number of Nodes poped out of the queue: 13035
+** Number of Nodes poped out of the queue: 62796
 ####################################################
 
